@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 ![Screenshot 2025-03-31 113715](https://github.com/user-attachments/assets/b83123ba-b657-4e6d-bd4a-3c114e0fc18c)
+![Screenshot 2025-03-31 113736](https://github.com/user-attachments/assets/dc2e03b7-8bd3-4bd7-baf4-53978c707e4b)
 
 ## Development server
 
