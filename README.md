@@ -1,6 +1,7 @@
 # BookStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+![Screenshot 2025-03-31 113715](https://github.com/user-attachments/assets/b83123ba-b657-4e6d-bd4a-3c114e0fc18c)
 
 ## Development server
 
